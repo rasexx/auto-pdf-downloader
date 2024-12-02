@@ -1,10 +1,19 @@
-# Automatic Google Search
 
-Este proyecto realiza búsquedas automáticas en Google y recopila los enlaces de los primeros 3 resultados para cada búsqueda. Es una herramienta útil para ayudar en la recopilación de información para investigaciones.
+# Automatic Google Search and PDF Download
+
+Este proyecto realiza búsquedas automáticas en Google, descarga los PDFs encontrados y verifica que contengan texto seleccionable. Es una herramienta útil para la recopilación de información para investigaciones.
 
 ## Descripción
 
-El script realiza búsquedas predefinidas en Google, simulando un navegador web para evitar bloqueos. Para cada búsqueda, obtiene los enlaces de los tres primeros resultados y los guarda en un archivo de texto. Esto puede ser especialmente útil para recopilar rápidamente recursos sobre temas específicos.
+El script realiza búsquedas predefinidas en Google, simulando un navegador web para evitar bloqueos. Para cada búsqueda, obtiene los enlaces de los PDFs en los resultados, los descarga y verifica que contengan texto seleccionable. Solo se conservan los PDFs que cumplen con este criterio.
+
+## Características principales
+
+- Búsqueda automática en Google
+- Descarga de PDFs
+- Verificación de texto seleccionable en PDFs
+- Interfaz gráfica para monitorear el progreso
+- Registro de actividades y errores
 
 ## Requisitos
 
@@ -16,21 +25,21 @@ El script realiza búsquedas predefinidas en Google, simulando un navegador web 
 1. Clona este repositorio:
 
 ```bash
-    git clone https://github.com/rasexx/automatic-google-search.git
-    cd automatic-google-search
+git clone https://github.com/rasexx/automatic-google-search.git
+cd automatic-google-search
 ```
 
 2. (Opcional) Crea y activa un entorno virtual:
 
 ```bash
-    python -m venv venv
-    source venv/bin/activate  # En Windows usa: venv\Scripts\activate
+python -m venv venv
+source venv/bin/activate  # En Windows usa: venv\Scripts\activate
 ```
 
 3. Instala las dependencias:
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Uso
@@ -38,22 +47,20 @@ El script realiza búsquedas predefinidas en Google, simulando un navegador web 
 1. Navega al directorio del proyecto:
 
 ```bash
-    cd src
+cd src
 ```
 
 2. Ejecuta el script principal:
 
 ```bash
-    python main.py
+python integrated_search_and_download_gui.py
 ```
 
-3. El script realizará las búsquedas predefinidas y guardará los resultados en un archivo llamado `search_results.txt` en el directorio raíz del proyecto.
+3. Utiliza la interfaz gráfica para iniciar el proceso y monitorear el progreso.
 
 ## Personalización
 
-Puedes modificar las búsquedas editando la lista `searches` en el archivo `src/main.py`.
-
-### Puedes consultar la [Guia Oficial de Google](https://support.google.com/websearch/answer/35890) para realizar busquedas avanzadas
+Puedes modificar las búsquedas editando el archivo `search_queries_input.txt` en el directorio `src`.
 
 ## Advertencia
 
@@ -65,17 +72,25 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
 ---
 
-# Automatic Google Search
+# Automatic Google Search and PDF Download
 
-This project performs automatic Google searches and collects the links of the first 3 results for each search. It is a useful tool to assist in gathering information for research.
+This project performs automatic Google searches, downloads the found PDFs, and verifies that they contain selectable text. It is a useful tool for gathering information for research.
 
 ## Description
 
-The script performs predefined Google searches, simulating a web browser to avoid crashes. For each search, it fetches the links of the first three results and saves them to a text file. This can be especially useful for quickly gathering resources on specific topics.
+The script performs predefined searches on Google, simulating a web browser to avoid blocks. For each search, it obtains the links of the PDFs in the results, downloads them, and verifies that they contain selectable text. Only PDFs that meet this criterion are kept.
+
+## Main Features
+
+- Automatic Google search
+- PDF download
+- Verification of selectable text in PDFs
+- Graphical interface to monitor progress
+- Activity and error logging
 
 ## Requirements
 
@@ -87,21 +102,21 @@ The script performs predefined Google searches, simulating a web browser to avoi
 1. Clone this repository:
 
 ```bash
-    git clone https://github.com/rasexx/automatic-google-search.git
-    cd automatic-google-search
+git clone https://github.com/rasexx/automatic-google-search.git
+cd automatic-google-search
 ```
 
-(Optional) Create and activate a virtual environment:
+2. (Optional) Create and activate a virtual environment:
 
 ```bash
-    python -m venv venv
-    source venv/bin/activate # On Windows use: venv/scripts/activate
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```
 
 3. Install the dependencies:
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -109,26 +124,24 @@ The script performs predefined Google searches, simulating a web browser to avoi
 1. Navigate to the project directory:
 
 ```bash
-    cd src
+cd src
 ```
 
 2. Run the main script:
 
 ```bash
-    python main.py
+python integrated_search_and_download_gui.py
 ```
 
-3. The script will perform the predefined searches and save the results in a file named ``search_results.txt`` in the root directory of the project.
+3. Use the graphical interface to start the process and monitor progress.
 
 ## Customization
 
-You can modify the searches by editing the `searches` list in the `src/main.py` file.
-
-### You can consult the [Official Google Guide](https://support.google.com/websearch/answer/35890) to perform advanced searches.
+You can modify the searches by editing the `search_queries_input.txt` file in the `src` directory.
 
 ## Warning
 
-Using scripts to perform automatic Google searches may violate Google's terms of service. Use this script responsibly and consider adding pauses between searches to avoid being blocked.
+Using scripts to perform automatic searches on Google may violate Google's terms of service. Use this script responsibly and consider adding pauses between searches to avoid being blocked.
 
 ## Contributions
 
@@ -136,4 +149,4 @@ Contributions are welcome. Please open an issue to discuss major changes before 
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is under the MIT License. See the LICENSE file for more details.

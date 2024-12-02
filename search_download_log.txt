@@ -1,0 +1,145 @@
+2024-12-02 00:42:08,204 - INFO - Búsqueda: filetype:pdf Todo Sobre Podcast - Félix Riaño
+2024-12-02 00:42:13,305 - INFO - Búsqueda: filetype:pdf La Nueva Era del Podcast - Emma Camarero Calandria (coord.)
+2024-12-02 00:42:14,150 - ERROR - Error al descargar http://ae-ic.org/Tarragona/contents/download/aeic2012tgn_abstract_ok_def.pdf: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-02 00:42:22,811 - INFO - PDF con texto seleccionable descargado: search_results\Concurso%20N%C2%BA%2019125_TU-Periodismo.pdf
+2024-12-02 00:42:26,107 - INFO - Búsqueda: filetype:pdf Poscat. El Podcast Después Del Podcast - Ernesto Lamas y Gastón Montells
+2024-12-02 00:42:28,082 - INFO - PDF con texto seleccionable descargado: search_results\El-podcast-despues-del-podcast.-Radio-y-narraciones-transmediales-en-los-proyectos-de-la-nueva-normalidad.pdf
+2024-12-02 00:42:30,944 - INFO - Búsqueda: filetype:pdf Ficción Radiofónica - Emma Rodero
+2024-12-02 00:42:33,022 - INFO - PDF con texto seleccionable descargado: search_results\02112175n32p133.pdf
+2024-12-02 00:42:37,361 - INFO - Búsqueda: filetype:pdf Podcasting. Así lo hago yo y así lo puedes hacer tú - Emilio Cano
+2024-12-02 00:42:38,806 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:42:38,807 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:42:43,662 - INFO - PDF con texto seleccionable descargado: search_results\Guia_didactica_innovaradio_cas.pdf
+2024-12-02 00:42:47,751 - INFO - Búsqueda: filetype:pdf Podcast. Guía práctica para crear programas radiofónicos y audiolibros - Beatriz Iznaola Duque
+2024-12-02 00:42:52,101 - INFO - PDF con texto seleccionable descargado: search_results\Guia_didactica_innovaradio_cas.pdf
+2024-12-02 00:42:54,170 - INFO - Búsqueda: filetype:pdf ¿Cómo Habla Tu Marca En Podcast? - Andoni Orrantia
+2024-12-02 00:42:55,519 - INFO - PDF sin texto seleccionable eliminado: search_results\978-84-18944-44-4%20C%C3%B3mo%20habla%20tu%20marca%20en%20podcast.pdf
+2024-12-02 00:42:56,587 - INFO - PDF con texto seleccionable descargado: search_results\FICHA-TECNICA-DE-TALLER-EL-SENTIDO-DEL-SONIDO.pdf
+2024-12-02 00:42:59,314 - INFO - Búsqueda: filetype:pdf El Gran Cuaderno de Podcasting - Francisco Izuzquiza
+2024-12-02 00:43:02,109 - INFO - PDF con texto seleccionable descargado: search_results\podcasting.pdf
+2024-12-02 00:43:04,771 - INFO - Búsqueda: filetype:pdf Podcasting para principiantes - Varios autores
+2024-12-02 00:43:06,140 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:43:06,140 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:43:07,002 - INFO - PDF con texto seleccionable descargado: search_results\C%C3%B3mo-elaborar-un-podcast.pdf
+2024-12-02 00:43:10,878 - INFO - Búsqueda: filetype:pdf El arte de hacer un podcast - José Antonio Gelado
+2024-12-02 00:43:12,074 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:43:12,075 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:43:14,909 - INFO - PDF con texto seleccionable descargado: search_results\MEM_EXT_15686-SILVIA_GARCIA_LOPEZ.pdf
+2024-12-02 00:43:18,896 - INFO - Búsqueda: filetype:pdf Monetiza tu Podcast - Clara Martínez
+2024-12-02 00:43:23,413 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:43:25,985 - INFO - Búsqueda: filetype:pdf Narrativa Sonora: El futuro del Podcast - Luis Enrique Mendoza
+2024-12-02 00:43:33,977 - INFO - PDF con texto seleccionable descargado: search_results\Hernandez_Realidad-Migracion.pdf
+2024-12-02 00:43:36,825 - INFO - Búsqueda: filetype:pdf Podcasting: La nueva frontera del marketing - Javier Fernández
+2024-12-02 00:43:40,831 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:43:45,282 - INFO - Búsqueda: filetype:pdf Crea tu propio Podcast: Guía paso a paso - Marta López
+2024-12-02 00:43:46,893 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:43:46,893 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:43:49,523 - INFO - PDF con texto seleccionable descargado: search_results\CAU_TFG_MACIA_ANDREU_MARTA.pdf
+2024-12-02 00:43:54,430 - INFO - Búsqueda: filetype:pdf El poder del audio: Cómo los podcasts transforman la comunicación - Roberto Silva
+2024-12-02 00:43:55,922 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:43:55,923 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:43:58,960 - INFO - PDF con texto seleccionable descargado: search_results\T4007-METIC-Troncoso-El%20podcast.pdf
+2024-12-02 00:44:01,920 - INFO - Búsqueda: filetype:pdf Tendencias en Podcasting 2025 - Ana Torres
+2024-12-02 00:44:10,984 - INFO - PDF con texto seleccionable descargado: search_results\tendencias-produccion-mercado-del-podcasting-v6.pdf
+2024-12-02 00:44:13,399 - INFO - Búsqueda: filetype:pdf Producción Audiovisual para Podcasts - Miguel Ángel Ruiz
+2024-12-02 00:44:22,360 - INFO - PDF con texto seleccionable descargado: search_results\tendencias-produccion-mercado-del-podcasting-v6.pdf
+2024-12-02 00:44:24,388 - INFO - Búsqueda: filetype:pdf Marketing Digital y Podcasts: Cómo atraer oyentes - Laura Gómez
+2024-12-02 00:44:57,164 - INFO - PDF con texto seleccionable descargado: search_results\tfm_23-24_calaf-gomez-laura.pdf
+2024-12-02 00:45:00,917 - INFO - Búsqueda: filetype:pdf Guía Completa para Podcasters - Andrés Jiménez
+2024-12-02 00:45:04,445 - INFO - PDF con texto seleccionable descargado: search_results\MEM_EXT_15686-SILVIA_GARCIA_LOPEZ.pdf
+2024-12-02 00:45:09,403 - INFO - Búsqueda: filetype:pdf Cómo hacer un Podcast que Enganche - Patricia Salazar
+2024-12-02 00:45:10,713 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:45:10,713 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:45:11,093 - ERROR - Error al descargar https://comunicacion-cientifica.com/wp-content/uploads/2022/08/CC46.-PDF-Estrategias-dida%CC%81cticas-emergentes3.pdf: 406 Client Error: Not Acceptable for url: https://comunicacion-cientifica.com/wp-content/uploads/2022/08/CC46.-PDF-Estrategias-dida%CC%81cticas-emergentes3.pdf
+2024-12-02 00:45:32,256 - ERROR - Error al descargar https://unab.edu.co/sites/default/files/Estrategia%20de%20comunicacio%CC%81n%20digital%20para%20el%20posicionamiento%20de%20marca%20Narrativas%20digitales%20en%20el%20emprendimiento%20Kaleth%20SAS_Danna%20Lizcano_Katrinalieth%20Morales.pdf: HTTPSConnectionPool(host='unab.edu.co', port=443): Max retries exceeded with url: /sites/default/files/Estrategia%20de%20comunicacio%CC%81n%20digital%20para%20el%20posicionamiento%20de%20marca%20Narrativas%20digitales%20en%20el%20emprendimiento%20Kaleth%20SAS_Danna%20Lizcano_Katrinalieth%20Morales.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-12-02 00:45:35,528 - INFO - Búsqueda: filetype:pdf Los secretos del Éxito en el Podcasting - Carlos Martínez
+2024-12-02 00:45:39,532 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:45:44,131 - INFO - Búsqueda: filetype:pdf Estrategias Avanzadas para Podcasters - Elena Rodríguez
+2024-12-02 00:45:45,602 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:45:45,603 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:45:49,113 - INFO - PDF con texto seleccionable descargado: search_results\160653100.pdf
+2024-12-02 00:45:51,167 - INFO - Búsqueda: filetype:pdf Podcasting y Redes Sociales: Una Sinergia Perfecta - Javier Pérez
+2024-12-02 00:45:52,976 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:45:52,976 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:45:54,504 - INFO - PDF con texto seleccionable descargado: search_results\TesisfinalJavierReynaldoPicoFlorez.pdf
+2024-12-02 00:45:57,483 - INFO - Búsqueda: filetype:pdf El Futuro del Audio: Tendencias en Podcasting - Sofía Herrera
+2024-12-02 00:52:14,912 - INFO - Búsqueda: filetype:pdf Todo Sobre Podcast - Félix Riaño
+2024-12-02 00:52:15,774 - ERROR - Error al descargar https://eduteka.icesi.edu.co/pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf: HTTPSConnectionPool(host='eduteka.icesi.edu.co', port=443): Max retries exceeded with url: /pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-12-02 00:52:16,935 - INFO - PDF con texto seleccionable descargado: search_results\2007-8358-soc-37-106-227.pdf
+2024-12-02 00:52:21,637 - INFO - Búsqueda: filetype:pdf La Nueva Era del Podcast - Emma Camarero Calandria (coord.)
+2024-12-02 00:52:22,781 - ERROR - Error al descargar http://ae-ic.org/Tarragona/contents/download/aeic2012tgn_abstract_ok_def.pdf: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-02 00:52:30,863 - INFO - PDF con texto seleccionable descargado: search_results\Concurso Nº 19125_TU-Periodismo.pdf
+2024-12-02 00:52:34,145 - INFO - Búsqueda: filetype:pdf Poscat. El Podcast Después Del Podcast - Ernesto Lamas y Gastón Montells
+2024-12-02 00:52:34,458 - WARNING - No se encontró un PDF válido para la búsqueda: filetype:pdf Poscat. El Podcast Después Del Podcast - Ernesto Lamas y Gastón Montells
+2024-12-02 00:52:34,752 - INFO - Búsqueda: filetype:pdf Todo Sobre Podcast - Félix Riaño
+2024-12-02 00:52:35,473 - ERROR - Error al descargar https://eduteka.icesi.edu.co/pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf: HTTPSConnectionPool(host='eduteka.icesi.edu.co', port=443): Max retries exceeded with url: /pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-12-02 00:52:36,459 - INFO - PDF con texto seleccionable descargado: search_results\2007-8358-soc-37-106-227.pdf
+2024-12-02 00:52:36,582 - INFO - Búsqueda: filetype:pdf Ficción Radiofónica - Emma Rodero
+2024-12-02 00:52:51,976 - INFO - Búsqueda: filetype:pdf Todo Sobre Podcast - Félix Riaño
+2024-12-02 00:52:52,687 - ERROR - Error al descargar https://eduteka.icesi.edu.co/pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf: HTTPSConnectionPool(host='eduteka.icesi.edu.co', port=443): Max retries exceeded with url: /pdfdir/EDUTEKA-podcast-palmira-enero-2021.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-12-02 00:52:53,753 - INFO - PDF con texto seleccionable descargado: search_results\2007-8358-soc-37-106-227.pdf
+2024-12-02 00:52:57,585 - INFO - Búsqueda: filetype:pdf La Nueva Era del Podcast - Emma Camarero Calandria (coord.)
+2024-12-02 00:52:58,713 - ERROR - Error al descargar http://ae-ic.org/Tarragona/contents/download/aeic2012tgn_abstract_ok_def.pdf: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-02 00:53:07,798 - INFO - PDF con texto seleccionable descargado: search_results\Concurso Nº 19125_TU-Periodismo.pdf
+2024-12-02 00:53:10,955 - INFO - Búsqueda: filetype:pdf Poscat. El Podcast Después Del Podcast - Ernesto Lamas y Gastón Montells
+2024-12-02 00:53:13,097 - INFO - PDF con texto seleccionable descargado: search_results\El-podcast-despues-del-podcast.-Radio-y-narraciones-transmediales-en-los-proyectos-de-la-nueva-normalidad.pdf
+2024-12-02 00:53:16,273 - INFO - Búsqueda: filetype:pdf Ficción Radiofónica - Emma Rodero
+2024-12-02 00:53:18,956 - INFO - PDF con texto seleccionable descargado: search_results\02112175n32p133.pdf
+2024-12-02 00:53:22,206 - INFO - Búsqueda: filetype:pdf Podcasting. Así lo hago yo y así lo puedes hacer tú - Emilio Cano
+2024-12-02 00:53:23,783 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:53:23,784 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:53:28,364 - INFO - PDF con texto seleccionable descargado: search_results\Guia_didactica_innovaradio_cas.pdf
+2024-12-02 00:53:30,600 - INFO - Búsqueda: filetype:pdf Podcast. Guía práctica para crear programas radiofónicos y audiolibros - Beatriz Iznaola Duque
+2024-12-02 00:53:35,605 - INFO - PDF con texto seleccionable descargado: search_results\Guia_didactica_innovaradio_cas.pdf
+2024-12-02 00:53:39,650 - INFO - Búsqueda: filetype:pdf ¿Cómo Habla Tu Marca En Podcast? - Andoni Orrantia
+2024-12-02 00:53:40,856 - INFO - PDF sin texto seleccionable eliminado: search_results\978-84-18944-44-4 Cómo habla tu marca en podcast.pdf
+2024-12-02 00:53:42,136 - INFO - PDF con texto seleccionable descargado: search_results\FICHA-TECNICA-DE-TALLER-EL-SENTIDO-DEL-SONIDO.pdf
+2024-12-02 00:53:44,976 - INFO - Búsqueda: filetype:pdf El Gran Cuaderno de Podcasting - Francisco Izuzquiza
+2024-12-02 00:53:47,072 - INFO - PDF con texto seleccionable descargado: search_results\podcasting.pdf
+2024-12-02 00:53:49,745 - INFO - Búsqueda: filetype:pdf Podcasting para principiantes - Varios autores
+2024-12-02 00:53:51,119 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:53:51,119 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:53:52,036 - INFO - PDF con texto seleccionable descargado: search_results\Cómo-elaborar-un-podcast.pdf
+2024-12-02 00:53:55,084 - INFO - Búsqueda: filetype:pdf El arte de hacer un podcast - José Antonio Gelado
+2024-12-02 00:53:56,272 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:53:56,273 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:54:00,390 - INFO - PDF con texto seleccionable descargado: search_results\high.raw.pdf
+2024-12-02 00:54:04,956 - INFO - Búsqueda: filetype:pdf Monetiza tu Podcast - Clara Martínez
+2024-12-02 00:54:08,916 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:54:13,531 - INFO - Búsqueda: filetype:pdf Narrativa Sonora: El futuro del Podcast - Luis Enrique Mendoza
+2024-12-02 00:54:21,490 - INFO - PDF con texto seleccionable descargado: search_results\Hernandez_Realidad-Migracion.pdf
+2024-12-02 00:54:25,890 - INFO - Búsqueda: filetype:pdf Podcasting: La nueva frontera del marketing - Javier Fernández
+2024-12-02 00:54:29,676 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:54:32,375 - INFO - Búsqueda: filetype:pdf Crea tu propio Podcast: Guía paso a paso - Marta López
+2024-12-02 00:54:33,679 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:54:33,680 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:54:35,778 - INFO - PDF con texto seleccionable descargado: search_results\CAU_TFG_MACIA_ANDREU_MARTA.pdf
+2024-12-02 00:54:39,496 - INFO - Búsqueda: filetype:pdf El poder del audio: Cómo los podcasts transforman la comunicación - Roberto Silva
+2024-12-02 00:54:40,757 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:54:40,757 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:54:43,076 - INFO - PDF con texto seleccionable descargado: search_results\T4007-METIC-Troncoso-El podcast.pdf
+2024-12-02 00:54:47,974 - INFO - Búsqueda: filetype:pdf Tendencias en Podcasting 2025 - Ana Torres
+2024-12-02 00:54:56,734 - INFO - PDF con texto seleccionable descargado: search_results\tendencias-produccion-mercado-del-podcasting-v6.pdf
+2024-12-02 00:55:01,227 - INFO - Búsqueda: filetype:pdf Producción Audiovisual para Podcasts - Miguel Ángel Ruiz
+2024-12-02 00:55:10,132 - INFO - PDF con texto seleccionable descargado: search_results\tendencias-produccion-mercado-del-podcasting-v6.pdf
+2024-12-02 00:55:12,767 - INFO - Búsqueda: filetype:pdf Marketing Digital y Podcasts: Cómo atraer oyentes - Laura Gómez
+2024-12-02 00:55:44,283 - INFO - PDF con texto seleccionable descargado: search_results\tfm_23-24_calaf-gomez-laura.pdf
+2024-12-02 00:55:48,078 - INFO - Búsqueda: filetype:pdf Guía Completa para Podcasters - Andrés Jiménez
+2024-12-02 00:55:51,796 - INFO - PDF con texto seleccionable descargado: search_results\MEM_EXT_15686-SILVIA_GARCIA_LOPEZ.pdf
+2024-12-02 00:55:54,946 - INFO - Búsqueda: filetype:pdf Cómo hacer un Podcast que Enganche - Patricia Salazar
+2024-12-02 00:55:56,230 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:55:56,232 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:55:56,636 - ERROR - Error al descargar https://comunicacion-cientifica.com/wp-content/uploads/2022/08/CC46.-PDF-Estrategias-dida%CC%81cticas-emergentes3.pdf: 406 Client Error: Not Acceptable for url: https://comunicacion-cientifica.com/wp-content/uploads/2022/08/CC46.-PDF-Estrategias-dida%CC%81cticas-emergentes3.pdf
+2024-12-02 00:56:17,767 - ERROR - Error al descargar https://unab.edu.co/sites/default/files/Estrategia%20de%20comunicacio%CC%81n%20digital%20para%20el%20posicionamiento%20de%20marca%20Narrativas%20digitales%20en%20el%20emprendimiento%20Kaleth%20SAS_Danna%20Lizcano_Katrinalieth%20Morales.pdf: HTTPSConnectionPool(host='unab.edu.co', port=443): Max retries exceeded with url: /sites/default/files/Estrategia%20de%20comunicacio%CC%81n%20digital%20para%20el%20posicionamiento%20de%20marca%20Narrativas%20digitales%20en%20el%20emprendimiento%20Kaleth%20SAS_Danna%20Lizcano_Katrinalieth%20Morales.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2024-12-02 00:56:17,767 - WARNING - No se encontró un PDF válido para la búsqueda: filetype:pdf Cómo hacer un Podcast que Enganche - Patricia Salazar
+2024-12-02 00:56:20,075 - INFO - Búsqueda: filetype:pdf Los secretos del Éxito en el Podcasting - Carlos Martínez
+2024-12-02 00:56:23,948 - INFO - PDF con texto seleccionable descargado: search_results\dmarquetaTFG0623memoria.pdf
+2024-12-02 00:56:27,382 - INFO - Búsqueda: filetype:pdf Estrategias Avanzadas para Podcasters - Elena Rodríguez
+2024-12-02 00:56:28,737 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:56:28,737 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:56:31,377 - INFO - PDF con texto seleccionable descargado: search_results\160653100.pdf
+2024-12-02 00:56:34,926 - INFO - Búsqueda: filetype:pdf Podcasting y Redes Sociales: Una Sinergia Perfecta - Javier Pérez
+2024-12-02 00:56:36,186 - ERROR - Error al procesar el PDF search_results\Podcasting-tu-tienes-la-palabra.pdf: EOF marker not found
+2024-12-02 00:56:36,187 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
+2024-12-02 00:56:37,398 - INFO - PDF con texto seleccionable descargado: search_results\TesisfinalJavierReynaldoPicoFlorez.pdf
+2024-12-02 00:56:40,384 - INFO - Búsqueda: filetype:pdf El Futuro del Audio: Tendencias en Podcasting - Sofía Herrera
