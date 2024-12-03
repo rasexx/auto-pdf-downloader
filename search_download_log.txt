@@ -143,3 +143,9 @@
 2024-12-02 00:56:36,187 - INFO - PDF sin texto seleccionable eliminado: search_results\Podcasting-tu-tienes-la-palabra.pdf
 2024-12-02 00:56:37,398 - INFO - PDF con texto seleccionable descargado: search_results\TesisfinalJavierReynaldoPicoFlorez.pdf
 2024-12-02 00:56:40,384 - INFO - Búsqueda: filetype:pdf El Futuro del Audio: Tendencias en Podcasting - Sofía Herrera
+2024-12-03 01:54:43,158 - INFO - Búsqueda: La riqueza de las naciones - Adam Smith
+2024-12-03 01:55:05,584 - ERROR - Error al procesar el PDF search_results\194-Smith, Adam - La riqueza de las naciones (Alianza).pdf: PyCryptodome is required for AES algorithm
+2024-12-03 01:55:05,588 - INFO - PDF sin texto seleccionable eliminado: search_results\194-Smith, Adam - La riqueza de las naciones (Alianza).pdf
+2024-12-03 01:55:10,014 - INFO - Búsqueda: La riqueza de las naciones - Adam Smith
+2024-12-03 01:55:11,528 - INFO - PDF sin texto seleccionable eliminado: search_results\1 La riqueza de las Adam Smith.pdf
+2024-12-03 01:55:12,581 - INFO - PDF con texto seleccionable descargado: search_results\la-riqueza-de-las-naciones-adam-smith.pdf
