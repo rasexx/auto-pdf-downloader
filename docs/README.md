@@ -1,5 +1,6 @@
-
 # Automatic Google Search and PDF Download
+
+![imagen](image.png)
 
 Este proyecto realiza búsquedas automáticas en Google, descarga los PDFs encontrados y verifica que contengan texto seleccionable. Es una herramienta útil para la recopilación de información para investigaciones.
 
